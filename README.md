@@ -1,12 +1,13 @@
-### Hi there 👋
+### Hi friends 👋
 
-Here are some ideas to get you started:
+- 🌱 I’m currently working on my pet-projects.
+- 🤗 Open to collaboration.
+- 📫 How to reach me:
+- [telegram](https://t.me/irinalya)
+- [Linkedin](https://www.linkedin.com/in/iryna-shevchenko-ua/)
+- ⚡ Fun fact: have studied web development because I was told that becoming a developer in 2024 promises an exciting journey filled with learning, creativity, and opportunities to make a difference in the world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+**TypeScript** **JavaScript** **HTML**
+**CSS** **Grid CSS** **SASS**
+**React** **Redux Toolkit** **Formik & Yup** **Toastify** **Axios**
+**Node.js** **Express.js** **MongoDB** **Mongoose** **Cors** **dotenv** **morgan** **Joi** **Nodemon**
