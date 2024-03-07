@@ -11,4 +11,6 @@
 **React** **Redux Toolkit** **Formik & Yup** **Toastify** **Axios**
 **Node.js** **Express.js** **MongoDB** **Mongoose** **Cors** **dotenv** **morgan** **Joi** **Nodemon**
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByeByeSyrena&layout=donut-vertical)](https://github.com/ByeByeSyrena/github-readme-stats)
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ByeByeSyrena)](https://github.com/ByeByeSyrena/github-readme-stats)
