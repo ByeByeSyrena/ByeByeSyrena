@@ -11,4 +11,4 @@
 **React** **Redux Toolkit** **Formik & Yup** **Toastify** **Axios**
 **Node.js** **Express.js** **MongoDB** **Mongoose** **Cors** **dotenv** **morgan** **Joi** **Nodemon**
 
-! [GitHub Stats] (https://github-readme-stats.versel.app/api?username=ByeByeSyrena&theme=radical)
+![GitHub Stats](https://github-readme-stats.versel.app/api?username=ByeByeSyrena&theme=radical)
