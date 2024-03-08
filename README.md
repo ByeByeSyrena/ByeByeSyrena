@@ -10,7 +10,7 @@ Stack:
 - Langs: **TypeScript** **JavaScript** **HTML**
 - CSS: **CSS** **Grid CSS** **SCSS**
 - Front: **React** **Redux Toolkit** **Formik & Yup** **Toastify** **Axios**
-- Back: **Node.js** **Express.js** **MongoDB** **Mongoose** **Cors** **dotenv** **morgan** **Joi** **Nodemon**
+- Back: **Node.js** **Express.js** **MongoDB** **Mongoose** **CORS** **dotenv** **morgan** **Joi** **Nodemon**
 - Bundlers: **Webpack** **Vite** **Parcel**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByeByeSyrena&layout=compact&theme=tokyonight)
