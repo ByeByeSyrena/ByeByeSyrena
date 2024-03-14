@@ -13,7 +13,7 @@ Stack:
 - Back: **Node.js** **Express.js** **MongoDB** **Mongoose** **CORS** **dotenv** **morgan** **Joi** **Nodemon**
 - Bundlers: **Webpack** **Vite** **Parcel**
 - API testing: **Postman** **Thunder Client**
-- Have understanding of: **MVC pattern**, **OOP**
+- Have understanding of: **MVC pattern**, **OOP**, **SSR**, **CSR**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByeByeSyrena&layout=compact&theme=tokyonight)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ByeByeSyrena&theme=tokyonight)](https://github.com/ByeByeSyrena/github-readme-stats)
