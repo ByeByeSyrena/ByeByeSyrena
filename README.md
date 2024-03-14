@@ -12,6 +12,7 @@ Stack:
 - Front: **React** **Redux Toolkit** **Formik & Yup** **Toastify** **Axios**
 - Back: **Node.js** **Express.js** **MongoDB** **Mongoose** **CORS** **dotenv** **morgan** **Joi** **Nodemon**
 - Bundlers: **Webpack** **Vite** **Parcel**
+- API testing: **Postman** **Thunder Client**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByeByeSyrena&layout=compact&theme=tokyonight)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ByeByeSyrena&theme=tokyonight)](https://github.com/ByeByeSyrena/github-readme-stats)
