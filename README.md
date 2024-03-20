@@ -14,6 +14,7 @@ Stack:
 - Bundlers: **Webpack** **Vite** **Parcel**
 - API testing: **Postman** **Thunder Client**
 - Have understanding of: **MVC pattern**, **OOP**, **SSR**, **CSR**
+- Follow: **KISS** **YAGNI** **DRY** **SOLID** **BDUF**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByeByeSyrena&layout=compact&theme=tokyonight)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ByeByeSyrena&theme=tokyonight)](https://github.com/ByeByeSyrena/github-readme-stats)
