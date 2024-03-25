@@ -12,6 +12,7 @@ Stack:
 - Front: **React** **Redux Toolkit** **Formik & Yup** **Toastify** **Axios**
 - Back: **Node.js** **Express.js** **MongoDB** **Mongoose** **CORS** **dotenv** **morgan** **Joi** **Nodemon**
 - Bundlers: **Webpack** **Vite** **Parcel**
+- Editors: **Prettier** **ESlint** 
 - API testing: **Postman** **Thunder Client**
 - Have understanding of: **MVC pattern**, **OOP**, **SSR**, **CSR**
 - Follow: **KISS** **YAGNI** **DRY** **SOLID** **BDUF**
