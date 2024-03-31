@@ -10,7 +10,7 @@ Stack:
 - Langs: **JavaScript** && **TypeScript** **HTML**
 - CSS: **CSS** **Grid CSS** **SCSS**
 - Front: **React** **Redux Toolkit** **Formik & Yup** **Toastify** **Axios** **Framer-Motion**
-- Back: **Node.js** **Express.js** **MongoDB** **Mongoose** **CORS** **dotenv** **morgan** **Joi** **Nodemon**
+- Back: **Node.js** **Express.js** **MongoDB** **Mongoose** **CORS** **dotenv** **morgan** **Joi** **Nodemon** **multer**
 - Bundlers: **Webpack** **Vite** **Parcel**
 - Editors: **Prettier** **ESlint** 
 - API testing: **Postman** **Thunder Client**
