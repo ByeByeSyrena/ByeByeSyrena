@@ -1,6 +1,5 @@
 ### Hi friends 👋
 
-- 🌱 I’m currently working in OmiSoft.
 - 🌱 Currently studying Nest.js and advanced CSS.
 - 🌱 English C1.
 - 📫 How to reach me: [telegram](https://t.me/irinalya) [linkedin](https://www.linkedin.com/in/iryna-shevchenko-ua/)
