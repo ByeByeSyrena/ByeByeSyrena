@@ -1,6 +1,6 @@
 ### Hi friends 👋
 
-- 🌱 Currently studying Nest.js and advanced CSS.
+- 🌱 Currently studying Next.js and advanced CSS.
 - 🌱 English C1.
 - 📫 How to reach me: [telegram](https://t.me/irinalya) [linkedin](https://www.linkedin.com/in/iryna-shevchenko-ua/)
 - ⚡ Fun fact: have studied web development because I was told that becoming a developer in 2024 promises an exciting journey filled with learning, creativity, and opportunities to make a difference in the world.
